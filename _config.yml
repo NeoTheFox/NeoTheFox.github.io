@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://NeoTheFox.github.io
+title: NeoTheFox's dump
+email: soniczerops@gmail.com
+author: NeoTheFox
+description: Just my personal dump with occasional projects information. 
+paginate: 3
+google_analytics: 
